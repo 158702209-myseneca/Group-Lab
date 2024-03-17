@@ -1,0 +1,6 @@
+Issue Description: - The game exits automatically after one round.
+- We require to include a cycle so that the user can continue playing if they like.
+
+
+Developer Comments: - Add a loop design to prompt users to perform additional rounds.
+- If the player decides to continue, resume the game loop. If not, leave the match alone.
